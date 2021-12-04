@@ -1,9 +1,0 @@
-<summary>Nothing works</summary>
-<stepstoreproduce>1) Start my computer; 2) Realise that nothing works</stepstoreproduce>
-<expectedresult>Everything works</expectedresult>
-<actualresult>Nothing works</actualresult>
-<testdata>My computer password: 123456</testdata>
-<environment>My computer</environment>
-<priority>BLOCKER</priority>
-<severity>BLOCKING</severity>
-<asignee>DENISOV VOVA</asignee>

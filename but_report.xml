@@ -1,8 +1,8 @@
 <summary>Nothing works</summary>
-<steps to reproduce>1) Start my computer; 2) Realise that nothing works</steps to reproduce>
-<expected result>Everything works</expected result>
-<actual result>Nothing works</actual result>
-<test data>My computer password: 123456</test data>
+<stepstoreproduce>1) Start my computer; 2) Realise that nothing works</stepstoreproduce>
+<expectedresult>Everything works</expectedresult>
+<actualresult>Nothing works</actualresult>
+<testdata>My computer password: 123456</testdata>
 <environment>My computer</environment>
 <priority>BLOCKER</priority>
 <severity>BLOCKING</severity>
